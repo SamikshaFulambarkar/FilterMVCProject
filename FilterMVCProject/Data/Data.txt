@@ -1,0 +1,16 @@
+﻿
+Before Action execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:06 AM
+After Action execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:06 AM
+----------------------------------
+
+Before Result execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:06 AM
+After Result execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:07 AM
+----------------------------------
+
+Before Action execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:10 AM
+After Action execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:10 AM
+----------------------------------
+
+Before Result execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:10 AM
+After Result execution->FilterMVCProject.Controllers.HomeController->FilterMVCProject.Controllers.HomeController.Index (FilterMVCProject)->3/1/2023 11:30:10 AM
+----------------------------------
